@@ -21,3 +21,4 @@ for (let i = 0; i < code.length; i++) {
 if (stack.length) {
   console.log('Unmatched opening', stack.pop());
 }
+
